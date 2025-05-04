@@ -1,1 +1,2 @@
 this is my example file.
+this is my example file2.
